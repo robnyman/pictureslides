@@ -1,0 +1,1 @@
+PictureSlides is a plugin to [jQuery](http://www.jquery.com/) to create presentations and slideshows with pictures. Go to the [documentation page](http://www.robertnyman.com/picture-slides/) for demos, documentation and settings.
